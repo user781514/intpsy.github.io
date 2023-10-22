@@ -1,0 +1,1 @@
+var posts=["2023/10/23/危机干预的四阶段&三步走/","2023/10/15/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
